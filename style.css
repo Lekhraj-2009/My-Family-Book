@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background: linear-gradient(#83FFF3 0%, #3A41FF 100%);
+}h1{
+    font-size: 35px;;
+}
+img{
+    border-radius: 10px;
+}
+#family_member_name{
+    font-size: 20px;
+}
+  
